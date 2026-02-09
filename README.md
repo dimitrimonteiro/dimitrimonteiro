@@ -30,10 +30,10 @@ Beyond development, I’m also interested in **DevOps, Cloud (AWS), databases, a
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.dimitri/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dev.dimitri/)
 
-![Mount's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpsmount&show_icons=true&theme=dracula)
+![Dimitri's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrimonteiro&show_icons=true&theme=dracula)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpsmount&layout=compact&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrimonteiro&layout=compact&show_icons=true&theme=dracula)
 <img align="right" alt="m0unt" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHV1NXVvYWFxbWxnYzJvY2pzNWtjZDR1NWlidmRxOGp1cWQ0cWltdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQVsxKZ1qxfu97vqKi/giphy.gif">
 
 ## Technologies
