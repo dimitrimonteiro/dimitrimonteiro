@@ -51,6 +51,6 @@ Beyond development, I’m also interested in **DevOps, Cloud (AWS), databases, a
 
 <div align="center">
 
- ![Snake animation](https://github.com/fpsmount/fpsmount/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/fpsmount/fpsmount/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
