@@ -51,8 +51,14 @@ Beyond development, I’m also interested in **DevOps, Cloud (AWS), databases, a
 
 <div align="center">
 
-<!--![Snake animation](https://github.com/fpsmount/fpsmount/blob/output/github-contribution-grid-snake-dark.svg)-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fpsmount/fpsmount/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fpsmount/fpsmount/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fpsmount/fpsmount/output/pacman-contribution-graph.svg">
+</picture>
+  
+</div>
 
-![Pacman contribution graph](https://github.com/fpsmount/fpsmount/blob/output/pacman-contribution-graph.svg)
+<!--![Snake animation](https://github.com/fpsmount/fpsmount/blob/output/github-contribution-grid-snake-dark.svg)-->
   
 </div>
